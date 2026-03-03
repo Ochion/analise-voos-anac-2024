@@ -1,0 +1,6 @@
+data/raw/
+voos.db
+.venv/
+.idea/
+__pycache__/
+*.pyc
